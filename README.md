@@ -19,8 +19,10 @@ On MacOS, pipenv can be installed using "homebrew" as discussed in "https://pypi
 
 Once, pipenv is installed, one can start the virtual environment shell, and run the code by doing the followings in the project folder.
 
+```sh
   $ pipenv shell
   $ ./q1.py input.txt
+```
 
 ##  Running the code via the system installation of python
 
