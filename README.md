@@ -17,8 +17,6 @@ First, make sure "pipenv" is installed in your system. On Ubuntu linux, this can
   $ pip install --user pipenv
 ```
 
-On MacOS, pipenv can be installed using "homebrew" as discussed in "https://pypi.org/project/pipenv/"
-
 Once, pipenv is installed, one can start the virtual environment shell, and run the code by doing the followings in the project folder.
 
 ```sh
