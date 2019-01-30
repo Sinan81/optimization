@@ -1,4 +1,4 @@
-This code solves a simple optimization problem, and intended to be learning exercise.
+This code solves a simple optimization problem, and intended to be an learning exercise.
 
 
 # HOW TO RUN THE CODE
