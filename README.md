@@ -9,7 +9,7 @@ In "test_q1.py", the unit test routines are provided.
 
 These codes have a few dependencies that are required: numpy, argparse, multiprocessing, and unittest
 
-##  Running the code via "pipenv" tool, which will create a virtualenv to run the code.
+##  Running the code via "pipenv" tool
 
 First, make sure "pipenv" is installed in your system. On Ubuntu linux, this can be done via:
 
