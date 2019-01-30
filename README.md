@@ -61,5 +61,5 @@ In order to run the parallel version of the calculation, use the '-p' or '--para
 
 Unit tests can be run via:
 ```
-  $ python test_q1.py
+  $ ./test_q1.py
 ```
